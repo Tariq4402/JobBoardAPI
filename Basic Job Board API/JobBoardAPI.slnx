@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+  </Folder>
+  <Project Path="../JobBoardAPI.Tests/JobBoardAPI.Tests.csproj" Id="addc10e9-691a-4442-9464-2242c1e2f365" />
+  <Project Path="JobBoardAPI.csproj" />
+</Solution>
